@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="text" tools:ignore="ExtraTranslation">Selecciona tus divisas</string>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="val" tools:ignore="ExtraTranslation"></string>
+</resources>
